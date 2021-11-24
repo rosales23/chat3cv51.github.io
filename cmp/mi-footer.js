@@ -3,7 +3,7 @@ class MiFooter extends HTMLElement {
     this.innerHTML = /* html */
       `<p>
         &copy; 2021
-        Rosales Nolasco Damián
+        Rosales Nolasco Damian
       </p>`;
   }
 }
